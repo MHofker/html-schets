@@ -1,0 +1,25 @@
+body {
+width: 960px;
+padding: 20px;
+}
+nav {
+    padding: 1px;
+    width: 960px;
+background-color: black;
+
+}
+header {
+    width: 960px;
+   
+    /* margin-bottom: 30px */
+}
+section {
+   
+    
+    /* border: 1px, black, solid; */
+}
+footer {
+    width: 960px;
+    
+    padding: 20px;
+}
